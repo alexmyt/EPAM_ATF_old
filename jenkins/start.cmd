@@ -1,0 +1,1 @@
+start java -Xrs -Xmx256m -jar c:/jenkins/jenkins.war --httpPort=8081
